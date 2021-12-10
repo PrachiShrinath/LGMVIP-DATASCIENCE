@@ -1,5 +1,5 @@
 # LGMVIP-DATASCIENCE
-#Begineer level
+# Begineer level
 Task 4 - Image to Pencil Sketch with Python
 
 # Intermediate level
